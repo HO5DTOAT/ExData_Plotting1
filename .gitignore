@@ -1,0 +1,14 @@
+data/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.backup
+*.zip
+*.csv
+*.pdf
+*.for
+*.xls
+*.xlsx
+*.jpg
+*.txt
